@@ -1,0 +1,21 @@
+# Entorno virtual — nunca subir
+.venv/
+venv/
+env/
+
+# Variables de entorno — NUNCA subir
+.env
+.env.local
+.env.production
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos del sistema
+.DS_Store        # Mac
+Thumbs.db        # Windows
+
+# Archivos de VS Code
+.vscode/settings.json

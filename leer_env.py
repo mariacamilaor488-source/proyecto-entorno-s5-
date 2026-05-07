@@ -11,3 +11,7 @@ print(f"Base de datos: {database}")
 print(f"Modo debug: {debug}")
 print(f"Ambiente: {env}")
 print("El entorno esta funcionando correctamente")
+
+
+def saludo():
+    print("Hola Mundo")
